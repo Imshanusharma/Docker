@@ -101,3 +101,6 @@ I can give you Production-grade Docker project (with CI/CD + Kubernetes)
 
 Or top 20 Docker interview questions 
 <img width="1375" height="611" alt="Screenshot 2026-03-18 at 5 15 18 PM" src="https://github.com/user-attachments/assets/b67d2464-5a78-462d-aec7-86392c25cf39" />
+```bash
+docker run nginx
+```
