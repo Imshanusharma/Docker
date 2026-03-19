@@ -104,3 +104,13 @@ Or top 20 Docker interview questions
 ```bash
 docker run nginx
 ```
+## 📦 Project Structure
+devops-project
+┣ 📂 java-maven-sonar-argocd-helm-k8s
+┣ 📂 python-jenkins-argocd-k8s
+┣ 📂 shared-libraries
+┣ 📂 vars
+┣ 📄 README.md
+┣ 📄 LICENSE
+┣ 📄 CODE_OF_CONDUCT.md
+┣ 📄 Interview_Questions.md
